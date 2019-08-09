@@ -6,4 +6,4 @@ const callbackExample=(items,callback)=>{
 ,0);
 };
 callbackExample(list,(result)=>{console.log(result);});
-console.log('first');
+console.log('first'); 
