@@ -6,9 +6,4 @@ const callbackExample=(items,callback)=>{
 ,0);
 };
 callbackExample(list,(result)=>{console.log(result);});
-<<<<<<< HEAD
 console.log('first'); 
-=======
-console.log('first'); 
-
->>>>>>> ca1ec1ba76da70302122d49c5458f3648359edb0
